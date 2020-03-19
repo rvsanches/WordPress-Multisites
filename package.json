@@ -1,0 +1,25 @@
+{
+  "name": "wordpress-multi-site",
+  "version": "1.0.0",
+  "description": "<!DOCTYPE html> <html lang=\"pt-br\"> <head> \t<meta name=\"viewport\" content=\"width=device-width\" /> \t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" /> \t<title>WordPress &#8250; Leia-me</title>     <link rel=\"stylesheet\" href=\"wp-admin/css/install.css?ver=20100228\" type=\"text/css\" /> </head> <body> <h1 id=\"logo\"> \t<a href=\"https://wordpress.org/\"><img alt=\"WordPress\" src=\"wp-admin/images/wordpress-logo.png\" /></a> \t<br /> Versão 5.3 </h1> <p style=\"text-align: center\">Plataforma de publicação semântica pessoal</p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvsanches/Teste-WordPress-com-multi-sites.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rvsanches/Teste-WordPress-com-multi-sites/issues"
+  },
+  "homepage": "https://github.com/rvsanches/Teste-WordPress-com-multi-sites#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.1"
+  }
+}
