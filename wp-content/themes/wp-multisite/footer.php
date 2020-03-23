@@ -1,3 +1,7 @@
+<?php echo do_shortcode( '[my-shortcode]' ); ?>
+
+</div>
+
 <?php wp_footer(); ?>
 
 <script src="<?php bloginfo('template_url'); ?>/js/jquery.js"></script>
