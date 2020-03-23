@@ -1,3 +1,18 @@
+.card-highlights {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  border-bottom-right-radius: 0px !important;
+  border-top-right-radius: 0px !important;
+}
 
+.bg-card-gradient {
+  background-image: linear-gradient(
+                  rgba(0, 0, 0, 0),
+                  rgba(0, 0, 0, 0.5)
+  );
+  border-bottom-right-radius: calc(0.25rem - 1px) !important;
+  border-bottom-left-radius: calc(0.25rem - 1px) !important;
+}
 
 @import "../../../../node_modules/bootstrap/scss/bootstrap";
